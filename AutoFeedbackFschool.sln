@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFeedbackFschool.UI", "AutoFeedbackFschool.UI\AutoFeedbackFschool.UI.csproj", "{CA1B09BF-643A-4A0D-87C8-6450E737236C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFeedbackFschool.Core", "AutoFeedbackFschool.Core\AutoFeedbackFschool.Core.csproj", "{CBF0DC25-9249-46D4-8314-F434DBBFF839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1B09BF-643A-4A0D-87C8-6450E737236C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1B09BF-643A-4A0D-87C8-6450E737236C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1B09BF-643A-4A0D-87C8-6450E737236C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1B09BF-643A-4A0D-87C8-6450E737236C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF0DC25-9249-46D4-8314-F434DBBFF839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF0DC25-9249-46D4-8314-F434DBBFF839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF0DC25-9249-46D4-8314-F434DBBFF839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF0DC25-9249-46D4-8314-F434DBBFF839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18AD6541-9B48-4589-B8A6-CE26D99669AF}
+	EndGlobalSection
+EndGlobal
